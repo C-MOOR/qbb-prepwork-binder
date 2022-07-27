@@ -1,0 +1,11 @@
+name: qbb-prepwork
+dependencies:
+  - jupyter_contrib_nbextensions
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - patsy
+
